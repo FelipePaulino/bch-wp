@@ -1,0 +1,359 @@
+﻿
+
+
+
+
+<!DOCTYPE html>
+<html lang="de-DE">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<link rel="shortcut icon" href="http://bchweb.com.br/favicon.ico" type="image/x-icon">
+<link rel="icon" href="http://bchweb.com.br/favicon.ico" type="image/x-icon">
+    <link rel="profile" href="http://gmpg.org/xfn/11" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+     <meta property="og:url"           content="https://www.your-domain.com/your-page.html" />
+  <meta property="og:type"          content="website" />
+  <meta property="og:title"         content="Your Website Title" />
+  <meta property="og:description"   content="Your description" />
+  <meta property="og:image"         content="https://www.your-domain.com/path/image.jpg" />
+    <title>#bbbtitsbbb#</title>
+<meta name="description" content="#bbbdesbbb#">
+<meta name="keywords" content="#bbbkeybbb#"> 
+
+    <link rel="pingback" href="http://bchweb.com.br/xmlrpc.php" />
+    <meta name='robots' content='noindex,follow' />
+<link rel='dns-prefetch' href='http://bchweb.com.br//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/bchweb.com.br\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.10"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://bchweb.com.br/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='addtoany-css'  href='http://bchweb.com.br/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.14' type='text/css' media='all' />
+<script type='text/javascript' src='http://bchweb.com.br/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://bchweb.com.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://bchweb.com.br/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.0'></script>
+<link rel='https://api.w.org/' href='http://bchweb.com.br/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://bchweb.com.br/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://bchweb.com.br/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.10" />
+
+
+<link rel="alternate" type="application/json+oembed" href="http://bchweb.com.br/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fbchweb.com.br%2Fcontato%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://bchweb.com.br/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fbchweb.com.br%2Fcontato%2F&#038;format=xml" />
+
+<script data-cfasync="false">
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_localize = {
+	Share: "Compartilhar",
+	Save: "Salvar",
+	Subscribe: "Inscrever",
+	Email: "Email",
+	Bookmark: "Favoritos",
+	ShowAll: "Mostrar tudo",
+	ShowLess: "Mostrar menos",
+	FindServices: "Procurar serviço(s)",
+	FindAnyServiceToAddTo: "Encontrar rapidamente qualquer serviço para",
+	PoweredBy: "Serviço fornecido por",
+	ShareViaEmail: "Share via email",
+	SubscribeViaEmail: "Subscribe via email",
+	BookmarkInYourBrowser: "Adicionar aos favoritos",
+	BookmarkInstructions: "Press Ctrl+D or \u2318+D to bookmark this page",
+	AddToYourFavorites: "Adicionar a favoritos",
+	SendFromWebOrProgram: "Send from any email address or email program",
+	EmailProgram: "Email program",
+	More: "More&#8230;"
+};
+
+(function(d,s,a,b){a=d.createElement(s);b=d.getElementsByTagName(s)[0];a.async=1;a.src="https://static.addtoany.com/menu/page.js";b.parentNode.insertBefore(a,b);})(document,"script");
+</script>
+    <meta charset="utf-8">
+	<link rel="stylesheet"   href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+	<!-- Tema opcional -->
+	<link rel="stylesheet"   href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+	<!-- Última versão JavaScript compilada e minificada -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
+	<link href="http://bchweb.com.br/wp-content/themes/bch/includes/css/geral.css" rel="stylesheet" type="text/css" />
+	<link rel="stylesheet" type="text/css"   href="http://bchweb.com.br/wp-content/themes/bch/includes/slick/slick.css" />
+	<link rel="stylesheet" type="text/css"   href="http://bchweb.com.br/wp-content/themes/bch/includes/css/hamburgers.css" />
+  <style>
+    code {
+      display: inline-block;
+    }
+
+    code,
+    .hamburger {
+      vertical-align: middle;
+    }
+  </style>
+  		  <script>
+  /**
+   * forEach implementation for Objects/NodeLists/Arrays, automatic type loops and context options
+   *
+   * @private
+   * @author Todd Motto
+   * @link https://github.com/toddmotto/foreach
+   * @param {Array|Object|NodeList} collection - Collection of items to iterate, could be an Array, Object or NodeList
+   * @callback requestCallback      callback   - Callback function for each iteration.
+   * @param {Array|Object|NodeList} scope=null - Object/NodeList/Array that forEach is iterating over, to use as the this value when executing callback.
+   * @returns {}
+   */
+    var forEach=function(t,o,r){if("[object Object]"===Object.prototype.toString.call(t))for(var c in t)Object.prototype.hasOwnProperty.call(t,c)&&o.call(r,t[c],c,t);else for(var e=0,l=t.length;l>e;e++)o.call(r,t[e],e,t)};
+
+    var hamburgers = document.querySelectorAll(".hamburger");
+    if (hamburgers.length > 0) {
+      forEach(hamburgers, function(hamburger) {
+        hamburger.addEventListener("click", function() {
+          this.classList.toggle("is-active");
+        }, false);
+      });
+    }
+  </script>
+</head>
+<body>
+#bbb1content1bbb#
+
+	<div class="container">
+		<div class="topo">
+			<div class="linha">
+			</div>
+			<a href="http://bchweb.com.br/"><img src="http://bchweb.com.br/wp-content/themes/bch/images/logo.jpg" class="logo"></a>
+
+			<div class="redes">
+				<a href="https://www.facebook.com/TmJobs/" target="_blank"><div><i class="fab fa-facebook-f"></i></div></a>
+				<a href="https://instagram.com/tmjobs_bch?utm_source=ig_profile_share&amp;igshid=smfhmampznib" target="_blank"><div><i class="fab fa-instagram"></i></div></a>
+				<a href="https://www.linkedin.com/company/4786263/admin/updates/" target="_blank"><div>
+<p>#link1#</p>
+<i class="fab fa-twitter"></i>
+</div></a>
+			</div>
+		</div>
+<div class="hamburger hamburger--3dxy-r">
+    <div class="hamburger-box">
+      <div class="hamburger-inner"></div>
+    </div>
+  </div>
+
+		<div class="menu">
+			<div><a href="http://bchweb.com.br/">Home</a></div>
+			<div>
+<p>#bbb2content2bbb#</p>
+<a href="http://bchweb.com.br/blog">Blog</a>
+</div>
+			<div><a href="http://bchweb.com.br/solucoes">Soluções</a></div>
+			<div><a href="http://bchweb.com.br/white-papers">White Papers</a></div>
+			<div><a href="http://bchweb.com.br/videos">Videos</a></div>
+			<div><a href="http://bchweb.com.br/contato">Contato</a></div>
+			<div class="borda"></div>
+		</div>
+	
+
+    <div class="container pai-banner">
+<p>#link2#</p>
+
+  <div class="banner-topo">
+                          <a href="http://bchweb.com.br/www.santacasasp.org.br/doe%20" target="_blank"><img src="http://bchweb.com.br/wp-content/uploads/2018/11/banners-TMJobs-01.jpg"></a>
+                  <a href="http://www.bchweb.com.br/anexos/absorb.pdf" target="_blank"><img src="http://bchweb.com.br/wp-content/uploads/2018/08/absorb.jpg"></a>
+                  <a href="http://www.saocristovao.com.br/associacao/default.htm" target="_blank"><img src="http://bchweb.com.br/wp-content/uploads/2018/08/banner_780x90pxl.jpg"></a>
+                  <a href="http://www.hospitalveracruz.com.br" target="_blank"><img src="http://bchweb.com.br/wp-content/uploads/2018/08/banner10.jpg"></a>
+                  <a href="http://bchweb.com.br/mailto:healthcare.br@agfa.com" target="_blank"><img src="http://bchweb.com.br/wp-content/uploads/2018/08/banner18.jpg"></a>
+                  <a href="http://www.gocil.com.br/" target="_blank"><img src="http://bchweb.com.br/wp-content/uploads/2018/08/gocil_banner.gif"></a>
+                  <a href="http://www.parebem.com.br" target="_blank"><img src="http://bchweb.com.br/wp-content/uploads/2018/08/banner_parebem.png"></a>
+                  <a href="http://www.columbiait.com.br/nossas-solucoes/mobisaude/" target="_blank"><img src="http://bchweb.com.br/wp-content/uploads/2018/08/banner_mobisaude.jpg"></a>
+                  <a href="http://go.wolterskluwer.com/acdsbch17?utm_campaign=BNR_ACDSBCH_SEPT17&amp;utm_medium=banner&amp;utm_source=Marketo" target="_blank"><img src="http://bchweb.com.br/wp-content/uploads/2018/08/bch_728x90.jpg"></a>
+                  <a href="http://eventosfehosp.com.br/" target="_blank"><img src="http://bchweb.com.br/wp-content/uploads/2018/08/eventos.jpg"></a>
+                  <a href="https://www.sabin.com.br/" target="_blank"><img src="http://bchweb.com.br/wp-content/uploads/2018/08/sabin.jpg"></a>
+                  <a href="https://www.convencaofbh.com.br/" target="_blank"><img src="http://bchweb.com.br/wp-content/uploads/2018/08/convencaofbh.jpg"></a>
+                  <a href="http://hospitaligesp.com.br/" target="_blank"><img src="http://bchweb.com.br/wp-content/uploads/2018/08/anuncio_tmjobs_site.jpg"></a>
+                  <a href="http://www.lucernaedu.com/" target="_blank"><img src="http://bchweb.com.br/wp-content/uploads/2018/08/banner-780x90px.gif"></a>
+                  <a href="http://www.hospitalveracruz.com.br/site/" target="_blank"><img src="http://bchweb.com.br/wp-content/uploads/2018/08/feira_hospitalar.jpg"></a>
+                  <a href="http://www.saocristovao.com.br/" target="_blank"><img src="http://bchweb.com.br/wp-content/uploads/2018/08/banner-sao-cristovao.jpg"></a>
+                </div>
+  </div>
+<style type="text/css">
+	.left{
+    width: 30%;
+    float: left;
+	}
+	.right{
+    margin-left: 5%;
+    width: 65%;
+    margin-top: 35px;
+	}
+	.left .telefones{background: url(http://bchweb.com.br/wp-content/themes/bch/images/telefones.jpg);background-repeat:  no-repeat;width:  289px;height: 82px;color: #fff;text-align: right;font-weight:  700;font-family: arial;font-size: 22px;padding-right:  30px;padding-top: 9px;letter-spacing: 1px;margin-bottom: 50px;margin-top: 40px;}
+	.box-funcionario{background: url(http://bchweb.com.br/wp-content/themes/bch/images/ponto.jpg);background-repeat:  no-repeat;background-position:  top left;padding-left: 35px;margin-left: 40px;margin-bottom: 35px;}
+	.box-funcionario h5{font-weight: 700;font-size: 16px;margin-bottom: 3px;}
+	.box-funcionario span{font-style:  italic;font-size: 16px;}
+	.box-funcionario a{
+		display: block;
+		color: #e05a27;
+		text-decoration:  underline;
+		font-size: 16px;
+	}
+.form-contato .bloco{
+	    background: #f9f9f9;
+    padding: 10px;
+}
+.form-contato .bloco input, .form-contato .bloco textarea{
+    width: 100%;
+    height: 35px;
+    padding: 0 10px;
+    border: 1px solid #f4f4f4;
+    color: #878686;
+    font-family: arial;
+    font-size: 13px;
+}
+
+ .form-contato .bloco textarea{
+ 	height: 95px;
+ 	max-height: 95px;
+ 	min-height: 95px;
+ 	padding: 10px;
+ }
+.form-contato input[type=submit] {
+    border-radius: 20px;
+    background: #e05a27;
+    border: 0;
+    color: #ffff;
+    padding: 6px 22px;
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-top: 14px;
+}
+@media (max-width: 480px) {
+.left{
+	width: 100%;
+}
+.left .telefones {
+    background: url(http://newqi.com.br/bch/wp-content/themes/bch/images/telefones.jpg);
+    background-repeat: no-repeat;
+    width: 289px;
+    height: 82px;
+    color: #fff;
+    text-align: right;
+    font-weight: 700;
+    font-family: arial;
+    font-size: 22px;
+    padding-right: 30px;
+    padding-top: 9px;
+    letter-spacing: 1px;
+    margin-bottom: 50px;
+    margin-top: 40px;
+    margin: 10px auto 40px;
+}
+.right {
+    margin-left: 0;
+    width: 100%;
+    margin-top: 0;
+}
+}
+</style>
+
+<h1>Contato</h1>
+</div>
+
+<div class="container">
+	<div class="left">
+		<div class="telefones">
+			
+			(11) 3392-2497
+		</div>
+		<div class="box-funcionario">
+			<h5>Tânia Machado</h5>
+			<span>Diretora Executiva</span>
+			<a href="http://bchweb.com.br/mailto:tmjobs@tmjobs.com.br">tmjobs@tmjobs.com.br</a>
+		</div>
+		<div class="box-funcionario">
+			<h5>Bruna Almeida</h5>
+			<span>Marketing BCH</span>
+			<a href="http://bchweb.com.br/mailto:marketing@tmjobs.com.br">marketing@tmjobs.com.br</a>
+		</div>
+                <div class="box-funcionario">
+            <h5>Patricia Bueno</h5>
+            <span><b>Tel:</b> 11 94824-3287</span>
+            <a href="http://bchweb.com.br/mailto:diretoria@tmjobs.com.br">diretoria@tmjobs.com.br</a>
+        </div>
+                <div class="box-funcionario">
+            <h5>Gloria Kannebley</h5>
+            <span><b>Tel:</b> 12 99190-5772</span>
+            <a href="http://bchweb.com.br/mailto:bchlatam@tmjobs.com.br">bchlatam@tmjobs.com.br</a>
+        </div>
+                <div class="box-funcionario">
+            <h5>Daniela Calvo</h5>
+            <span><b>Tel:</b> 11 99607-2263</span>
+            <a href="http://bchweb.com.br/mailto:captacao@tmjobs.com.br">captacao@tmjobs.com.br</a>
+        </div>
+	</div>
+	<div class="right">
+		    <div class="form-contato">#descontent#</div>
+	</div>
+
+</div>
+               
+	<div class="rodape">
+		<div class="container">
+			<div class="menu-footer">
+			<a href="http://bchweb.com.br/">Home</a>
+			<a href="http://bchweb.com.br/blog">Blog</a>
+			<a href="http://bchweb.com.br/solucoes">Soluções</a>
+			<a href="http://bchweb.com.br/white-papers">White Papers</a>
+			<a href="http://bchweb.com.br/videos">Videos</a>
+			<a href="http://bchweb.com.br/contato">Contato</a>
+			
+<p>#link3#</p>
+</div>
+			<div class="informacoes-rodape">
+				<img src="http://bchweb.com.br/wp-content/themes/bch/images/tania.png" class="tania"><div>
+					<h4>Missão</h4>
+					<p>Apoiar nossos clientes na concretização dos seus  objetivos estratégicos, a partir de um profundo conhecimento do setor e da rede de relacionamento com os principais agentes da cadeia.<br></p>
+				
+<p>#flink#</p>
+</div>
+				<div>
+					<h4>Visão</h4>
+					<p>Ser reconhecida nacionalmente como a melhor consultoria de negócios no segmento de saúde.</p>
+				</div>
+				<div>
+					<h4>Valores</h4>
+					<p>Comprometimento<br>
+Conhecimento  <br>
+Confiança  <br>
+Colaboração</p>
+				
+<p>#link4#</p>
+</div>
+							</div>
+			<div class="redes-footer">
+				<a href="https://www.facebook.com/TmJobs/" target="_blank"><div><i class="fab fa-facebook-f"></i></div></a>
+				<a href="https://instagram.com/tmjobs_bch?utm_source=ig_profile_share&amp;igshid=smfhmampznib" target="_blank"><div><i class="fab fa-instagram"></i></div></a>
+				<a href="https://www.linkedin.com/company/4786263/admin/updates/" target="_blank"><div><i class="fab fa-twitter"></i></div></a>
+			</div>
+			<p class="assinatura">Business Club Healthcare © 2018 - Todos os direitos reservados</p>
+		</div>
+	</div>
+
+
+
+
+
+	<script src="http://code.jquery.com/jquery-2.2.4.min.js"></script>
+
+
+	<script type="text/javascript" src="http://bchweb.com.br/wp-content/themes/bch/includes/slick/slick.min.js"></script>
+	<script type="text/javascript" src="http://bchweb.com.br/wp-content/themes/bch/includes/js/efeitos.js"></script>
+
+</body>
+</html>

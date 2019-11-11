@@ -1,0 +1,48 @@
+@charset "utf-8";
+
+.titulo {
+	font-family: Tahoma;
+	font-size: large;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #D7590F;
+	text-align: center;
+}
+.linhafina {
+	font-family: Tahoma;
+	font-size: small;
+	font-style: italic;
+	font-weight: normal;
+	font-variant: normal;
+	color: #777373;
+	text-align: center;
+}
+
+.texto {
+	font-family: Tahoma;
+	font-size: small;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #747272;
+	text-align: justify;
+}
+.leiamais {
+	font-family: Tahoma;
+	font-size: medium;
+	font-weight: bold;
+	font-variant: normal;
+	color: #D7590F;
+	font-style: italic;
+	line-height: normal;
+	text-align: right;
+}
+
+body {
+	background-color: #EFEBEB;
+}
+a:link {
+	color: #D7590F;
+}

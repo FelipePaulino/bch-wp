@@ -1,0 +1,215 @@
+.slider-for div.slick-slide{
+    height: 260px;
+    width: 260px;
+    margin-right: 60px;
+    margin-left: 60px;
+  }
+.ca img{
+opacity: 0.8;
+
+  }
+  .ca .slick-center img{
+    opacity: 1;
+    transform: scale(1.80);
+  }
+  .slider-for div.slick-slide img{
+
+  width: 100%;
+
+}
+ .slider-for .slick-slide.slick-active.slick-center{
+
+
+}
+.slider-nav div.slick-slide{
+
+  height: 100px;
+    margin-right: 8px;
+    margin-left: 8px;
+  overflow: hidden;
+}
+.slider-nav div.slick-slide img{
+  height: 100%;
+  width: 100%;
+
+}
+.slider-for .slick-list {
+    position: relative;
+    display: block;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    padding: 90px 0px!important;
+}
+.box-carrosel-encontros{
+  background: url(../../images/box-encontros.jpg);
+  background-position: 0 -17px;
+  background-color: #1f282f;
+  height: 487px;
+  width: 100%;
+  background-repeat:  no-repeat;
+}
+.box-encontro{
+    float: left;
+    width: 272px;
+    height: auto;
+    margin-top: 45px;
+    margin-right: 20px;
+    overflow: hidden;
+    position: relative;
+}
+.box-encontro img{
+  height: 250px;
+}
+.box-encontro a .contorno{
+  border: 6px solid #ccc;
+  background: transparent;
+  height: 263px;
+  position: absolute;
+  z-index: 2;
+  width: 268px;
+  top: 20px;
+  left: 0;
+}
+.box-encontro div{
+  background: #cccccc;
+  padding: 6px;
+}
+.box-encontro h3{
+  color: #fff;
+  text-align: center;
+  font-size: 14px;
+  text-transform: uppercase;
+  width: 90%;
+  margin: 15px 5%;
+}
+.carrosel-encontros .slick-next {
+    background: url(../../images/encon-right.png) no-repeat;
+    width: 60px;
+    height: 60px;
+    text-indent: -999;
+    border: 0;
+    position: absolute;
+    z-index: 1000;
+    top: 381px;
+    left: 50%;
+    cursor: pointer;
+    text-indent: -9999px;
+    border: 0;
+}
+.carrosel-encontros .slick-prev {
+    background: url(../../images/encon-left.png) no-repeat;
+    width: 60px;
+    height: 60px;
+    text-indent: -999;
+    border: 0;
+    position: absolute;
+    z-index: 1000;
+    top: 381px;
+    left: 43%;
+    cursor: pointer;
+    text-indent: -9999px;
+    border: 0;
+}
+h2{
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+.back-thumbs{
+  width: 100%;
+  height: auto;
+  background: #e9e7e7;
+  position: relative;
+  padding: 30px 0;
+  margin-bottom: 150px;
+}
+.slider-for .slick-next{
+opacity: 0;
+}
+.slider-for .slick-prev{
+opacity: 0;
+}
+.slider-nav .slick-prev {
+    background: url(../../images/encon-left.png) no-repeat;
+    width: 60px;
+    height: 60px;
+    text-indent: -999;
+    border: 0;
+    position: absolute;
+    z-index: 1000;
+    top: 18px;
+    left: 0;
+    cursor: pointer;
+    text-indent: -9999px;
+    border: 0;
+}
+.slider-nav .slick-next {
+    background: url(../../images/encon-right.png) no-repeat;
+    width: 60px;
+    height: 60px;
+    text-indent: -999;
+    border: 0;
+    position: absolute;
+    z-index: 1000;
+    top: 21px;
+    left: 95%;
+    cursor: pointer;
+    text-indent: -9999px;
+    border: 0;
+}
+.slider-nav .slick-list {
+    width: 86%;
+    margin: 0 7%;
+    height: 100px;
+}
+@media (max-width: 480px) {
+  .box-encontro a .contorno{
+    width: 100%;
+  }
+  .box-encontro{
+    margin-right: 0;
+  }
+  h2{
+    margin-bottom: 0;
+  }
+  .slider-for{
+    height: 500px;
+  }
+  .slider-nav .slick-prev {
+    background: url(../../images/encon-left.png) no-repeat;
+    width: 60px;
+    height: 60px;
+    text-indent: -999;
+    border: 0;
+    position: absolute;
+    z-index: 1000;
+    top: -113px;
+    left: 0px;
+    cursor: pointer;
+    text-indent: -9999px;
+    border: 0;
+}
+.slider-nav .slick-next {
+    background: url(../../images/encon-right.png) no-repeat;
+    width: 60px;
+    height: 60px;
+    text-indent: -999;
+    border: 0;
+    position: absolute;
+    z-index: 1000;
+    top: -113px;
+    left: 81%;
+    cursor: pointer;
+    text-indent: -9999px;
+    border: 0;
+}
+.back-thumbs {
+    width: 100%;
+    height: auto;
+    background: #e9e7e7;
+    position: relative;
+    padding: 30px 0;
+    margin-bottom: 0;
+    margin-top: 31px;
+}
+  }
